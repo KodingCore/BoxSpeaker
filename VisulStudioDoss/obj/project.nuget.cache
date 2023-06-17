@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "uml4AOlGbmhLXH68nPtC8BlPLrpVXPjhnko4fDjipTghaQh6Fj/lGVl8zFPMmrDbj8BZNCf2mWLirF8vQwdNGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kcorv\\source\\repos\\BoxSpeaker\\BoxSpeaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kcorv\\.nuget\\packages\\clipboardhelper\\1.0.7.3\\clipboardhelper.1.0.7.3.nupkg.sha512",
+    "C:\\Users\\kcorv\\.nuget\\packages\\ironocr\\2020.11.2\\ironocr.2020.11.2.nupkg.sha512",
+    "C:\\Users\\kcorv\\.nuget\\packages\\ironocr.languages.french\\2020.11.2\\ironocr.languages.french.2020.11.2.nupkg.sha512",
+    "C:\\Users\\kcorv\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.29.0\\microsoft.cognitiveservices.speech.1.29.0.nupkg.sha512",
+    "C:\\Users\\kcorv\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\kcorv\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\kcorv\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\kcorv\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\kcorv\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\kcorv\\.nuget\\packages\\system.speech\\7.0.0\\system.speech.7.0.0.nupkg.sha512",
+    "C:\\Users\\kcorv\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'ClipboardHelper 1.0.7.3' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' au lieu du framework cible du projet 'net6.0-windows7.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "ClipboardHelper",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
